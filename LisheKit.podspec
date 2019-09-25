@@ -11,7 +11,7 @@ Pod::Spec.new do |spec|
   spec.name         = "LisheKit"
   spec.version      = "0.0.1"
   spec.summary      = "LisheKit for Lishe"
-  spec.description  = "LisheKit for Lishe"
+  spec.description  = "LisheKit for Lishe'APP"
   spec.homepage     = "https://github.com/WhityLL/LisheKit.git"
   spec.license      = { :type => "MIT", :file => "FILE_LICENSE" }
 
